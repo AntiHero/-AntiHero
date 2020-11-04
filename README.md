@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![](https://raw.githubusercontent.com/AntiHero/ZeroHelpStudioLogo/master/logo4.png?token=AEJLTBIZMKGCGS4DG6I4CVK7ULHEG)
+![](https://user-images.githubusercontent.com/18004357/98142697-30c6bf00-1ed9-11eb-99de-d105b8eb41bd.png)
 <!--
 **AntiHero/AntiHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
