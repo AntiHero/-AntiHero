@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![](https://user-images.githubusercontent.com/18004357/99951494-453b0080-2d8f-11eb-8908-f1f69a44e7e0.png)
+![](https://user-images.githubusercontent.com/18004357/116690795-95636200-a9c2-11eb-8b7c-4ca7832a0ad8.png)
 <!--
 **AntiHero/AntiHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
